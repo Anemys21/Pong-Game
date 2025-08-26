@@ -8,4 +8,4 @@ Joue avec les flèches votre curseur pour contrôler ta raquette contre l’ordi
 
 1. Clone le dépôt :
    ```bash
-   git clone https://github.com/Anemys21/Pong-Game.git
+   git clone https://github.com/Anemys21/Pong Game.git
